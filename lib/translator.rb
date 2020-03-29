@@ -13,7 +13,7 @@ def load_library(file)
     japan = value[1]
     emotes[:get_meaning][japan] = meaning
     emotes[:get_emoticon[english] = japan
-
+  end
   emotes
 end
 
